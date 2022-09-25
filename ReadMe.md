@@ -1,0 +1,6 @@
+# This is the associated repository for "Optimizing innate adversarial robustness on image recognition models in high risk scenarios" written by Arav Kumar and published in the National High School Journal of Science
+
+## Abstract:
+Convolutional Neural Networks have been and will continue to be utilized amongst a variety of high risk scenarios. To help protect these models, the majority of adversarial research has focused on improving the methods by which we adversarially train the existing convolutional models. This research neglects the effect the training of the original model may have on its adversarial robustness. In response, this work observes and defines how optimization, activation and architectural choices impact adversarial defense training and innate adversarial robustness. Additionally a framework for analyzing and scoring adversarial robustness as a function of classification accuracy is proposed. It is determined that regardless of the type of attack, Sigmoid activation, Adagrad, and Adamax optimizers weaken the model regardless of the method of attack. On the contrary, optimizers such as RMSProp are incredibly beneficial, outperforming the standard, Adam, on multiple adversarial attacks.
+
+### This project is part of ProjectAthena, a research initiative to create safe artificial general intelligence.
