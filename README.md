@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code associated with the research paper titled ["Optimizing innate adversarial robustness on image recognition models in high risk scenarios."]([url](https://www.academia.edu/85546902/Optimizing_innate_adversarial_robustness_on_image_recognition_models_in_high_risk_scenarios)) The research explores the often-overlooked influence of optimization, activation, and architectural decisions on the adversarial robustness of convolutional neural networks (CNNs).
+This repository contains code associated with the research paper titled ["Optimizing innate adversarial robustness on image recognition models in high risk scenarios."](https://www.academia.edu/85546902/Optimizing_innate_adversarial_robustness_on_image_recognition_models_in_high_risk_scenarios) The research explores the often-overlooked influence of optimization, activation, and architectural decisions on the adversarial robustness of convolutional neural networks (CNNs).
 
 ## Abstract
 
