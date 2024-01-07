@@ -1,4 +1,4 @@
-# Convolutional Neural Network Adversarial Defense Research
+# Adversarial Attack Impact Reduction
 
 ## Overview
 
